@@ -3,7 +3,7 @@
 #include <Update.h>
 
 #define LED_BUILTIN 2
-
+// Wifi and Password
 const char* ssid = "Technotouch";
 const char* password = "5135Innova";
 
